@@ -1,10 +1,3 @@
-██████╗ ███████╗██╗   ██╗███████╗███████╗███████╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝██╔════╝
-██████╔╝█████╗  ██║   ██║█████╗  █████╗  ███████╗
-██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██╔══╝  ╚════██║
-██║  ██║███████╗ ╚████╔╝ ███████╗███████╗███████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝
- LAT-LONG  ➝  CITY • DISTRICT • STATE • COUNTRY
 # **LatLong City Finder**
 
 Bulk Reverse Geocoding (Latitude/Longitude → City, District, State, Country) using Python + OpenStreetMap (Nominatim)
@@ -149,3 +142,11 @@ Free for commercial & personal use.
 ## ⭐ Support the Project
 
 If this tool helped you, give the repo a **star ⭐ on GitHub**!
+
+██████╗ ███████╗██╗   ██╗███████╗███████╗███████╗
+██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝██╔════╝
+██████╔╝█████╗  ██║   ██║█████╗  █████╗  ███████╗
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██╔══╝  ╚════██║
+██║  ██║███████╗ ╚████╔╝ ███████╗███████╗███████║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝
+ LAT-LONG  ➝  CITY • DISTRICT • STATE • COUNTRY

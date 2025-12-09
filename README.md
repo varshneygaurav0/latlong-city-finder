@@ -23,6 +23,16 @@ This script is optimized for **large datasets**, includes:
 
 ---
 
+## 📁 Project Structure
+
+reverse-geocoding/
+│
+├── script.py                      # Main Python script
+├── coordinates.csv                # Input file
+└── reverse_geocoded_output.csv    # Final output (auto-generated)
+
+---
+
 ## 🗂️ Features
 
 ✔ Bulk reverse-geocoding
